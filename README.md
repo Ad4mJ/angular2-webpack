@@ -18,17 +18,13 @@ This seed repo serves as an Angular 2 starter for anyone looking to get up and r
 * Error reported with [TSLint](http://palantir.github.io/tslint/) and [Codelyzer](https://github.com/mgechev/codelyzer).
 * Documentation with [TypeDoc](http://typedoc.io/).
 
->Warning: Make sure you're using the latest version of Node.js and NPM
-
-[Is Angular 2 Ready Yet?](http://splintercode.github.io/is-angular-2-ready/)
-
 ### Quick start
 
 > Clone/Download the repo then edit `app.ts` inside [`/src/app/app.component.ts`](/src/app/app.component.ts)
 
 ```bash
-# clone our repo
-$ git clone https://github.com/preboot/angular2-webpack.git my-app
+# clone the repo
+$ clone https://github.com/Ad4mJ/angular2-webpack.git my-app
 
 # change directory to your app
 $ cd my-app
@@ -56,16 +52,9 @@ go to [http://localhost:8080](http://localhost:8080) in your browser.
 
 # Getting Started
 
-## Dependencies
-
-What you need to run this app:
-* `node` and `npm` (Use [NVM](https://github.com/creationix/nvm))
-* Ensure you're running Node (`v5.x.x`+) and NPM (`3.x.x`+)
-
 ## Installing
 
-* `fork` this repo
-* `clone` your fork
+* `git clone https://github.com/Ad4mJ/angular2-webpack.git` this repo
 * `npm install` to install all dependencies
 
 ## Developing
